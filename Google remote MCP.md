@@ -481,3 +481,13 @@ This helps evaluate:
 - Agent behavior
 - Instruction following
 - Response handling for irrelevant queries
+
+---
+
+## Contributing
+
+We welcome contributions to this repository, including bug reports, feature requests, documentation improvements, and code contributions. Please see [Contributing Guidelines](CONTRIBUTING.md) to get started.
+
+## License
+
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
